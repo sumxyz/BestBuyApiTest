@@ -7,7 +7,7 @@ Search for testNG and install that for Eclipse.
 
 2) In Eclipse right click on project and select 'Properties'
 Then select 'Java Build Path' and then 'Libraries' tab
-Under 'classpath' make sure to add the httpclient version 4.5.13 and testng.
+Under 'classpath' make sure to add the httpclient version 4.5.13 (httpclient library has been uploaded to the repo) and testng.
 
 ***** To run tests: *****
 
